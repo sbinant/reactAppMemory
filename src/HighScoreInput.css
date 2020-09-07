@@ -1,0 +1,13 @@
+.highScoreInput {
+    font-size: 1em;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: calc(100% - 0.4em);
+    margin: 0.2em;
+  }
+  .highScoreInput input {
+
+    width: 100%;
+    margin-bottom: 0.2em;
+    font-family: Menlo, Monaco, Consolas, Inconsolata, 'Courier New', monospace;
+  }
